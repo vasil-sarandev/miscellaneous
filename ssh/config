@@ -1,0 +1,11 @@
+# --- Sourcetree Generated ---
+
+Host github.com
+HostName github.com
+User vasil-sarandev
+PreferredAuthentications publickey
+IdentityFile /Users/vasilsarandev/.ssh/vasil-sarandev-GitHub
+UseKeychain yes
+AddKeysToAgent yes
+
+# ----------------------------
