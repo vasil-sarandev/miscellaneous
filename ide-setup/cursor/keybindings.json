@@ -1,0 +1,8 @@
+[
+  // Map your custom VS Code formatting chord cleanly
+  {
+    "key": "cmd+k cmd+f",
+    "command": "editor.action.formatSelection",
+    "when": "editorHasDocumentSelectionFormattingProvider && editorTextFocus && !editorReadonly"
+  }
+]
